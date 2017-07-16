@@ -1,0 +1,12 @@
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\bin\Debug\MaHoaVaGiaiMaCeasar.exe.config
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\bin\Debug\MaHoaVaGiaiMaCeasar.exe
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\bin\Debug\MaHoaVaGiaiMaCeasar.pdb
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.csprojResolveAssemblyReference.cache
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.Form1.resources
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.Properties.Resources.resources
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.csproj.GenerateResource.Cache
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.exe
+c:\users\dong\documents\visual studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.pdb
+C:\Users\DONG\Documents\Visual Studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.Form2.resources
+C:\Users\DONG\Documents\Visual Studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.Form3.resources
+C:\Users\DONG\Documents\Visual Studio 2013\Projects\MaHoaVaGiaiMaCeasar\MaHoaVaGiaiMaCeasar\obj\Debug\MaHoaVaGiaiMaCeasar.FormTong.resources

@@ -1,0 +1,11 @@
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\bin\Debug\ATBMChuong3.exe.config
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\bin\Debug\ATBMChuong3.exe
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\bin\Debug\ATBMChuong3.pdb
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.csprojResolveAssemblyReference.cache
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.Form1.resources
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.Properties.Resources.resources
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.csproj.GenerateResource.Cache
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.exe
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.pdb
+c:\users\dong\documents\visual studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.Form2.resources
+C:\Users\DONG\Documents\Visual Studio 2013\Projects\ATBMChuong3\ATBMChuong3\obj\Debug\ATBMChuong3.FormTong.resources
